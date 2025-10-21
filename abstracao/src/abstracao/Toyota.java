@@ -9,17 +9,17 @@ public class Toyota extends Carro {
     
     @Override
     public void ligar() {
-        System.out.println("O motor BMW V6 ronca alto ao ligar. Potência total!");
+        System.out.println("O motor do Corola liga. Potência total!");
     }
     
     @Override
     public void acelerar() {
-        System.out.println("O BMW é empurrado violentamente pelo seu motor turbo. VROOOM!");
+        System.out.println("O Corola é empurrado  pelo seu motor eficiente e silencioso. ");
     }
     
     @Override
     public void frear() {
-        System.out.println("Os freios de alto desempenho do BMW garantem uma parada rápida.");
+        System.out.println("Os freios de alto desempenho do Corola garantem uma parada suave.");
     }
     
     @Override

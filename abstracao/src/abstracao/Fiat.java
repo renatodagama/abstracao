@@ -9,22 +9,22 @@ public class Fiat extends Carro {
     
     @Override
     public void ligar() {
-        System.out.println("O motor BMW V6 ronca alto ao ligar. Potência total!");
+        System.out.println("O motor do Fiat 500 é acionado!");
     }
     
     @Override
     public void acelerar() {
-        System.out.println("O BMW é empurrado violentamente pelo seu motor turbo. VROOOM!");
+        System.out.println("O Fiat 500 acelera devagar ");
     }
     
     @Override
     public void frear() {
-        System.out.println("Os freios de alto desempenho do BMW garantem uma parada rápida.");
+        System.out.println("Os freios do Fiat 500 garantem uma parada suave.");
     }
     
     @Override
     public void desligar() {
-        System.out.println("Deligando!");
+        System.out.println("Desligando!");
     }
     
     
